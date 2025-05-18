@@ -48,7 +48,7 @@ Start the server
 composer run dev
 ```
 
-## Environment Variables
+## Environment Variables (SQL SERVER DATABASE)
 
 To run this project, you will need to fill up the following environment variables in your `.env` file.
 
